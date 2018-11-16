@@ -10,7 +10,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-preset-stage-3": "^6.24.1",
     "dotenv": "^6.0.0",
-    "ganache-cli": "^6.1.8",
+    "ganache-cli": "^6.2.0",
     "openzeppelin-solidity": "^2.0.0",
     "portis": "^1.2.5",
     "truffle": "^4.1.14",
